@@ -38,7 +38,7 @@ client.user.setActivity('3RB', { type: 'PLAYING' })
 });
 
 client.login('
-             ');
+');
 
 client.on("message", async message =>{
 let command = message.content.toLowerCase().split(" ")[0]
