@@ -37,7 +37,8 @@ client.on('ready', () => {
 client.user.setActivity('3RB', { type: 'PLAYING' })
 });
 
-client.login('NzMwNzM5MzY3NjY0MDI1NjUw.Xwb4EQ.Ve6pVm5CMr_YJi_ss8CVy8VwsaA');
+client.login('
+             ');
 
 client.on("message", async message =>{
 let command = message.content.toLowerCase().split(" ")[0]
